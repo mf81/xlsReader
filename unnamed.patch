@@ -1,0 +1,99 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 71529b03da544c14f20e12b4aa3d96ddb6d1a0c3)
++++ .idea/workspace.xml	(date 1553159172000)
+@@ -1,7 +1,9 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="4edae8ac-1240-4e15-8322-0fccb8571b39" name="Default Changelist" comment="" />
++    <list default="true" id="4edae8ac-1240-4e15-8322-0fccb8571b39" name="Default Changelist" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <ignored path="$PROJECT_DIR$/out/" />
+     <ignored path="$PROJECT_DIR$/target/" />
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+@@ -15,11 +17,8 @@
+       <file pinned="false" current-in-tab="true">
+         <entry file="file://$PROJECT_DIR$/src/main/java/eu/maciejfijalkowski/Main.java">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="19">
+-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+-              <folding>
+-                <element signature="imports" expanded="true" />
+-              </folding>
++            <state relative-caret-position="114">
++              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+             </state>
+           </provider>
+         </entry>
+@@ -67,6 +66,9 @@
+         <option value="Class" />
+       </list>
+     </option>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="IdeDocumentHistory">
+     <option name="CHANGED_PATHS">
+@@ -90,6 +92,7 @@
+     <option name="width" value="1570" />
+     <option name="height" value="865" />
+   </component>
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectView">
+     <navigator proportions="" version="1">
+       <foldersAlwaysOnTop value="true" />
+@@ -212,9 +215,8 @@
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="0" y="23" width="1570" height="865" extended-state="0" />
+-    <editor active="true" />
+     <layout>
+-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25327227" />
++      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25327227" />
+       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+       <window_info id="Image Layers" order="2" />
+       <window_info id="Designer" order="3" />
+@@ -223,7 +225,7 @@
+       <window_info id="Favorites" order="6" side_tool="true" />
+       <window_info anchor="bottom" id="Message" order="0" />
+       <window_info anchor="bottom" id="Find" order="1" />
+-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32988358" />
++      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32988358" />
+       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+@@ -295,11 +297,8 @@
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/main/java/eu/maciejfijalkowski/Main.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="19">
+-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+-          <folding>
+-            <element signature="imports" expanded="true" />
+-          </folding>
++        <state relative-caret-position="114">
++          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+         </state>
+       </provider>
+     </entry>
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1553150362000)
++++ .idea/vcs.xml	(date 1553150362000)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
